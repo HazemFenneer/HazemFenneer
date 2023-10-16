@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazem Fenneer</h1>
 <h3 align="center">A software developer from Libya</h3>
 
-- 🔭 I’m currently study at **UTM**
+- 🔭 I’m currently studying at **UTM**
 
 - 🌱 I’m currently learning **Master in Data Science**
 
